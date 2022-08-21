@@ -1,0 +1,2 @@
+Small programs (./src/bin/) testing micro:bit peripherals and hal crate for nrf52833.
+Flashing using : cargo embed --features v2 --target thumbv7em-none-eabihf --bin {}
